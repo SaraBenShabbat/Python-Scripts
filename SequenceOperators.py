@@ -11,5 +11,5 @@ b = 15
 c = 3
 print(a - b / c)
 atr = "bhjgggjhffgfj"
-pri
+
 print(atr[0:-1:2])
