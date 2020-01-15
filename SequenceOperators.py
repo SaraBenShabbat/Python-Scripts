@@ -13,3 +13,4 @@ print(a - b / c)
 atr = "bhjgggjhffgfj"
 # All it works ! Hashem. Thanks !!!
 print(atr[0:-1:2])
+
